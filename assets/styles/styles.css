@@ -1,0 +1,78 @@
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+a{
+    text-decoration:none!important; 
+}
+
+.project{
+    margin:0 !important; 
+    padding:0 !important;
+}
+
+body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+.bg-color{
+    background-color:#22212C!important;
+}
+
+.text-color{
+    color: #837E9F!important;
+}
+
+.text-color:hover{
+    color:#6e6a86!important;
+    cursor:pointer;
+}
+
+.background-card{
+    background-color:#302F3D !important;
+}
+
+.bg-techs{
+    background-color:#CB92B1;
+}
+
+.f-weight-400{
+    font-weight:400;
+}
+
+.f-weight-500{
+    font-weight:500;
+}
+
+.f-weight-700{
+    font-weight:700;
+}
+
+.card,
+.notification{
+    border-radius:20px;
+}
+
+.card-image img{
+    margin-top:25px;
+    height:200px;  
+    width:200px;
+    border-radius:50%!important;
+    background-position:center!important;
+    background-size:cover!important;
+    border:solid 3px greenyellow;
+}
+
+.rounded-span{
+    border-radius:20px;
+}
+
+.second-image img{
+    height:100%;  
+    width:200px; 
+    border-radius:50%!important;
+    background-position:center!important;
+    background-size:cover!important;
+}
